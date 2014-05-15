@@ -12,7 +12,7 @@ public class TestTodo{
 	@Test
 	public void testsuma(){
 		HolaJava o = new HolaJava();
-		assertEquals(0,o.suma(1,2));
+		Assert.assertEquals(0,o.suma(1,2));
 	}
 	
 }
