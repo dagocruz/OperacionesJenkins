@@ -18,7 +18,7 @@ public class TestTodo{
 	@Test
 	public void testsuma2(){
 		HolaJava o = new HolaJava();
-		Assert.assertEquals(1,o.suma(1,2));
+		Assert.assertEquals(3,o.suma(1,2));
 	}
 	
 }
